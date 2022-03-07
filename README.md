@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=tonghuaroot&show_icons=true&title_color=428bed&icon_color=2c53db">
+
+
+<br/><br/>
+
+<div align="left">You are the <img src="https://profile-counter.glitch.me/tonghuaroot/count.svg">th visitor.</div>
+
+
 <!--
 **tonghuaroot/tonghuaroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
